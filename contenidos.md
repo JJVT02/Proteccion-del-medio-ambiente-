@@ -12,7 +12,6 @@ Antes que nada un riesgo ambiental es una catastrofe en el medio ambiente como p
 - Cambios excesivos de temperatura
 - efecto invernadero y destruir la capa de ozono
 - Erupcion volcanica
-- 
 ## ¿Cuáles son los objetivos de la protección del medio ambiente?
 Los objetivos son proteger y restaurar el uso sostenible de los ecosistemas de la tierra, es decir intentar que sea sostenible la cantidad de bosques, controlar la biodiversidad, reducir los residuos quimicos del planeta, incrementar el reciclaje y la reutilizacion, minorizar el consumo de productos dañinos para el planeta 
 ## ¿Cómo podemos garantizar la protección del medio ambiente?
