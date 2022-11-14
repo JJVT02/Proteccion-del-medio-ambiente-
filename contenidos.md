@@ -5,12 +5,18 @@ La proteccion en el medio ambiente consiste en comprender todas las actividades 
 Antes que nada un riesgo ambiental es una catastrofe en el medio ambiente como por ejemplo;
 - Tormentas de agua, arena, polvo, etc
 - Plagas (cucarachas, ratas, etc)
+
 ![image](plagas.png)
+
 - contaminacion atmosferica
 - escacez de lluvia e incremento de sequias
+
 ![image](sequias.jpg) 
+
 - ciclones y tormentas 
+
 ![image](ciclones.png)
+
 - Incendios forestales 
 - Cambios excesivos de temperatura
 - efecto invernadero y destruir la capa de ozono
